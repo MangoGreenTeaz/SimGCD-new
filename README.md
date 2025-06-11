@@ -7,6 +7,5 @@ SimGCD_new/
 │   ├── bert_encoder.py       # BERT 编码器
 │   └── simgcd_text.py       # SimGCD 文本模型
 ├── train_text.py            # 训练脚本
-├── evaluate.py              # 评估脚本
 ├── config.yaml              # 配置文件
 └── run_train.sh            # 启动脚本
